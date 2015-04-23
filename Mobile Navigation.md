@@ -19,7 +19,7 @@ Ben个人的确认为抽屉菜单确实是个简单的方案，但同时也有�
 
 Foursquare在2014年5月发布在第一版Swarm的时候，用户想查看个人页时，只能点击左上角的按钮。
 
-![](1_bK1-LvDp72WkTwRmpTVTRA.jpeg "Swarm Mobile Application")
+[1](http://mmbiz.qpic.cn/mmbiz/mGXCselWFssEJO1B3dVq5xf4wn3RNrIldwgeItr71IUp1JiakRKSlp1ERI5H0RkibGnJpqGZEWrDuf8AHxhF6xdg/640?tp=webp&wxfrom=5)
 
 Ben觉得这是一个很聪明的作法。有什么更好的方法能比直接用用户的头像来代表“profile button”呢？很明显的，在很多产品关于交互方面的东西，除了设计师，其他人懂的真不多。在一个月后，Swarm更新了他们的导航，并且加了一个个人主页的按钮在她们的tab bar里。相比其他的导航，Swarm用了一个很简单的Tab bar，但是这的确非常有效。
 
@@ -27,7 +27,7 @@ Tab bar很好，即使导航是固定在屏幕上，但显示了所有的导航�
 
 但是Ben对Swarm的导航还是给出了自己的建议。比如Ben认为Swarm直接用图标来代替按钮。图标ICON本身已经很好了，而且无需解释这些图标的意思，甚至可以认为是全球通用的语言。但是仍然需要非常容易理解或者直接附上名称。这时Swarm（上图）和Facebook Groups（下图）的导航比较。
 
-![](2.jpeg)
+[2](http://mmbiz.qpic.cn/mmbiz/mGXCselWFssEJO1B3dVq5xf4wn3RNrIlvPPfN4beFxkuZicbcHW5mdRLUpAbtMftgRgXpmdC73M7RWNQ3B9QC2Q/640?tp=webp&wxfrom=5)
 
 Facebook在每一个图标下都加上了名字，甚至在像“设置”这种众所周知的隐喻图标下，都加了文字说明。但是Swarm用了一个自己设计的类似于蜂巢（hive）的图标来作为首页的按钮，其实不是太容易理解的。
 
@@ -41,17 +41,17 @@ Ben在第二部分着重对Tinder，Snapchat等运用了侧滑菜单的App进行
 
 但另一方面来说，用户在Tinder中，无法很快速的到达”Moments“页面。更重要的是，这个页面在首屏是隐藏的，导致用户需要一定的理解成本，这部分就显得不是很方便。
 
-![](3.jpeg "Midpic Mobile Applicatio")
+[3](http://mmbiz.qpic.cn/mmbiz/mGXCselWFssEJO1B3dVq5xf4wn3RNrIlBtodDfclMRBanumkJQajPYo6WTYyWEd1TibcTSun1VFGUNFVemheEtQ/640?tp=webp&wxfrom=5)
 
 我们也许会通过”长距离的水平滑动（infinite horizontal swipe）“来改善导航，这样用户似乎就可以去下一个页面。但这样的方式，会让用户在长距离向左或者右操作室，产生一种被blocked的感觉。
 
-![](4.jpeg "Tinder Mobile Application")
+[4](http://mmbiz.qpic.cn/mmbiz/mGXCselWFssEJO1B3dVq5xf4wn3RNrIl0FNu3wRQVbmynrpotcgYXk8l05XYzEmFtW13phBxDwu5a2IykOF4qA/640?tp=webp&wxfrom=5)
 
 ## BAG and Vertical Swipe Menus
 
 Ben介绍了一款不是很有名叫做BAG的App，使用了一种由设计师Nacho Rapallo设计的新的导航形式。用户可以在下滑屏幕刷新，但是，在滑动的距离不同，会进行不同的操作。
 
-![](5.jpeg "BAG mobile application")
+[5](http://mmbiz.qpic.cn/mmbiz/mGXCselWFssEJO1B3dVq5xf4wn3RNrIlUVwWaukXbRbD1wLLkqfrycX97RS3hqG1jlApSKc3b66XQhung7uXuw/640?tp=webp&wxfrom=5)
 
 Ben本人很喜欢这个交互，这个操作很想是个抽屉菜单(Hamburger menu)但缺避免了很多的缺点。
 - 可以进入完整的菜单
@@ -70,7 +70,7 @@ Ben本人很喜欢这个交互，这个操作很想是个抽屉菜单(Hamburger 
 ## Navigation experiment
 在Ben说了那么多之后，毅然决然了试验了一种新型导航，来避免BAG导航的缺点。Ben依旧才去了BAG导航的模式，但用在了侧面，这样就彻底解决了滚动的问题。
 
-![](5.gif)
+[6](http://mmbiz.qpic.cn/mmbiz/mGXCselWFssEJO1B3dVq5xf4wn3RNrIlxRZaIEqicORoyUp6nvRa0byfTs1B1KbDpmAk5ZpcFmcfmHqvicz9b9icw/0?tp=webp&wxfrom=5)
 
 Ben自己也承认说肯定不是最完美的，因为主菜单依旧是隐藏了，最后只能靠用户来习惯这种导航的模式，而且在iOS系统上，手势还存在着侧滑回到上一页”back to the last page“的问题。但是Ben认为这种类型的抽屉导航，还是可以解决交互方面的问题的。
 
